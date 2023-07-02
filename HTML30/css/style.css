@@ -1,0 +1,6 @@
+.menu{
+  padding: 50px;
+}
+.menu__item:first-child:hover{
+  color: red;
+}
